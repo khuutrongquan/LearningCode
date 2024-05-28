@@ -1,0 +1,9 @@
+.img{
+    display: flex;
+    border: 1px solid red;
+    justify-content: space-around;
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+}

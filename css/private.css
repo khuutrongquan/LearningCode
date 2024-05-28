@@ -1,0 +1,13 @@
+.vitae{
+    color: black;
+    margin: 0 auto;
+}
+.vitae .content{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.vitae .title{
+    display: flex;
+}
